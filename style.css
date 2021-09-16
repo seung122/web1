@@ -1,0 +1,27 @@
+header {
+    border-bottom: black 1px solid;
+    padding: 20px;
+}
+
+nav {
+    border-right: black 1px solid;
+    padding-right: 10px;
+    width: 200px;
+    height: 500px;
+    float: left;
+}
+
+nav ol {
+    padding-top: 10px;
+}
+
+nav ol li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+article {
+    float: left;
+    margin-left:  20px;
+    margin-top: 20px;
+}
